@@ -1,0 +1,40 @@
+# Gradle
+/.gradle/
+/build/
+/**/build/
+
+# Android Studio
+/.idea/
+/captures/
+/*.iml
+/.android/
+out/
+
+# Lokalna konfiguracja
+local.properties
+
+# Logi
+*.log
+
+# Generated APKs and bundles
+/**/*.apk
+/**/*.ap_
+/**/*.aab
+
+# Kotlin
+*.kotlin_module
+
+# Keystore
+*.jks
+*.keystore
+
+# System
+.DS_Store
+Thumbs.db
+
+# proguard
+*.pro
+
+# Crashlytics
+crashlytics.properties
+fabric.properties
